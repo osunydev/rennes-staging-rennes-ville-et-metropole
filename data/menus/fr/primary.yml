@@ -6,7 +6,7 @@ items:
   kind: blank
   new_tab: false
   children:
-  - title: Actualités
+  - title: Rennes Ville et Métropole
     target: "/actualites/"
     kind: page
     new_tab: false
