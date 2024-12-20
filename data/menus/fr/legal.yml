@@ -78,5 +78,10 @@ items:
   target: ''
   kind: blank
   new_tab: false
-  children: []
+  children:
+  - title: Ici Rennes Actualités
+    target: https://rennes-ville-et-metropole.rennes-staging.osuny.site/
+    kind: url
+    new_tab: true
+    children: []
 
