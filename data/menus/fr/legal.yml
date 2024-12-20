@@ -1,16 +1,16 @@
 ---
 title: Menu footer
 items:
+- title: Nous contacter
+  target: https://rennes-ville-et-metropole.rennes-staging.osuny.site/
+  kind: url
+  new_tab: false
+  children: []
 - title: Rennes Ville et Métropole
   target: ''
   kind: blank
   new_tab: false
-  children:
-  - title: Nous contacter
-    target: https://rennes-ville-et-metropole.rennes-staging.osuny.site/
-    kind: url
-    new_tab: false
-    children: []
+  children: []
 - title: Vos services par thématiques
   target: ''
   kind: blank
