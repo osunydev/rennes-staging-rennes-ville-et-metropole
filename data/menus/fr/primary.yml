@@ -20,13 +20,6 @@ items:
     children: []
     path: "/persons"
     file: content/fr/persons/_index.html
-- title: Organisations
-  target: "/organisations/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/organizations"
-  file: content/fr/organizations/_index.html
 - title: Votre métropole
   target: ''
   kind: blank
@@ -39,6 +32,13 @@ items:
     children: []
     path: "/events"
     file: content/fr/events/_index.html
+  - title: Organisations
+    target: "/organisations/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/organizations"
+    file: content/fr/organizations/_index.html
 - title: Votre commune
   target: https://rennes-ville-et-metropole.rennes-staging.osuny.site/
   kind: url
