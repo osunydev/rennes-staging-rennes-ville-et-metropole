@@ -39,4 +39,9 @@ items:
   kind: blank
   new_tab: false
   children: []
+- title: Votre commune
+  target: https://rennes-ville-et-metropole.rennes-staging.osuny.site/
+  kind: url
+  new_tab: false
+  children: []
 
