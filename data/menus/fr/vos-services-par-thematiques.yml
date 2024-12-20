@@ -11,4 +11,9 @@ items:
   kind: blank
   new_tab: false
   children: []
+- title: Démarches administratives
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
 
