@@ -6,4 +6,9 @@ items:
   kind: url
   new_tab: true
   children: []
+- title: Rennes Demain
+  target: https://rennes-ville-et-metropole.rennes-staging.osuny.site/
+  kind: url
+  new_tab: true
+  children: []
 
