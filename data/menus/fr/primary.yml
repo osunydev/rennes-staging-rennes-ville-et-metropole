@@ -40,6 +40,11 @@ items:
     kind: blank
     new_tab: false
     children: []
+  - title: Logement urbanisme
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
 - title: Votre métropole
   target: ''
   kind: blank
