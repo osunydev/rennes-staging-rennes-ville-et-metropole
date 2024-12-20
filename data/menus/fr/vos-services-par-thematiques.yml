@@ -21,4 +21,9 @@ items:
   kind: blank
   new_tab: false
   children: []
+- title: Enfance, éducation, jeunesse
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
 
