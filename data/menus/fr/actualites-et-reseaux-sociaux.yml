@@ -1,4 +1,9 @@
 ---
 title: Actualités et réseaux sociaux
-items: []
+items:
+- title: Ici Rennes Actualités
+  target: https://rennes-ville-et-metropole.rennes-staging.osuny.site/
+  kind: url
+  new_tab: true
+  children: []
 
