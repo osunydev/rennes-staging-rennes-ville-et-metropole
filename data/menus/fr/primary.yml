@@ -63,7 +63,7 @@ items:
     path: "/events"
     file: content/fr/events/_index.html
   - title: Organisations
-    target: "/organisations/"
+    target: "/annuaire/"
     kind: page
     new_tab: false
     children: []
