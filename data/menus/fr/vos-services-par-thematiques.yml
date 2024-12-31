@@ -31,4 +31,9 @@ items:
   kind: blank
   new_tab: false
   children: []
+- title: Logement et urbanisme
+  target: www.google.com
+  kind: url
+  new_tab: true
+  children: []
 
