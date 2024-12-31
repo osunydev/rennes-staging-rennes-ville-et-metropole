@@ -1,6 +1,7 @@
 theme: osuny
 _merge: deep
 params:
+  keycdn: https://osunystaging-1b4da.kxcdn.com
   summary:
     position: hero
   search:
