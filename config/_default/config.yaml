@@ -1,11 +1,4 @@
-theme: osuny
+theme: rennes-hugo-theme
 _merge: deep
 params:
   keycdn: https://osunystaging-1b4da.kxcdn.com
-  summary:
-    position: hero
-  search:
-    active: true
-  logo:
-    header: ''
-    footer: ''
