@@ -11,7 +11,7 @@ meta:
     slug: "ecole-by-api"
   dates:
     created_at: 2025-01-07T15:31:47+01:00
-    updated_at: 2025-01-22T14:54:36+01:00
+    updated_at: 2025-01-22T14:58:31+01:00
 
 breadcrumbs:
   - title: >-
@@ -79,7 +79,7 @@ free_categories:
     name: "Piscines"
 
 contents_reading_time:
-  seconds: 7
+  seconds: 15
   text: >-
     moins d'une minute
 contents:
@@ -194,27 +194,111 @@ contents:
   - kind: block
     template: contact
     title: >-
-      
+      Contact block
     slug: >-
-      
+      contact-block
     ranks:
       base: 2
-      children: 2
+      self: 2
+      children: 3
     top:
-      active: false
+      active: true
+      title: 
+        value: >-
+          Contact block
+        heading: 2
+      description: >-
+        <p>Some <i>awesome</i> description.</p>
     data:
       description: >-
-        
+        <p>Some <i>awesome</i> description.</p>
 
       name: >-
-        
+        Ecedi
 
       information: >-
-        
+        <p>Infos complémentaires.</p>
 
       contact_details:
+        postal_address:
+          data:
+            address_name: >-
+              
+            address: >-
+              30 bd Gambetta
+            address_additional: >-
+              
+            zipcode: >-
+              38100
+            city: >-
+              Grenoble
+            country:
+              name: >-
+                France
+              alpha2: >-
+                FR
+              alpha3: >-
+                FRA
+          text: >-
+            30 bd Gambetta 38100 Grenoble FRANCE
+          html: >-
+            <address itemprop="address" itemscope itemtype="https://schema.org/PostalAddress"> <span itemprop="streetAddress">30 bd Gambetta</span> <span itemprop="postalCode">38100</span> <span itemprop="addressLocality">Grenoble</span> <span itemprop="addressCountry">FRANCE</span></address>
+        phone_numbers:
+          list:
+            - label: >-
+                04 76 11 22 33
+              value: >-
+                tel:0476112233
+            - label: >-
+                04 44 55 66 77
+              value: >-
+                tel:0444556677
+        emails:
+          list:
+            - label: >-
+                a@ecedi.fr
+              value: >-
+                mailto:a@ecedi.fr
+            - label: >-
+                b@ecedi.fr
+              value: >-
+                mailto:b@ecedi.fr
+        websites:
+          website:
+            label: >-
+              www.ecedi.fr
+            value: >-
+              https://www.ecedi.fr
+        social_networks:
+          mastodon:
+            label: >-
+              www.mastodon.fr
+            value: >-
+              https://www.mastodon.fr
 
       timetable:
+        - title: >-
+            Jeudi 21/04/2025
+
+          time_slot_morning:
+            from: "08:00"
+            to: "11:30"
+
+          time_slot_afternoon:
+            from: "14:30"
+            to: "17:30"
+
+        - title: >-
+            Vendredi 22/04/2025
+
+          time_slot_morning:
+            from: ""
+            to: ""
+
+          time_slot_afternoon:
+            from: ""
+            to: ""
+
 
 
 
