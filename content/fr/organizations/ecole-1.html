@@ -54,6 +54,10 @@ backlinks:
         path: "/pages/exemple-de-page"
         slug: "exemple-de-page"
         file: "content/fr/pages/exemple-de-page/_index.html"
+      - permalink: "/exemple-de-page/sous-page-test/"
+        path: "/pages/exemple-de-page/sous-page-test"
+        slug: "sous-page-test"
+        file: "content/fr/pages/exemple-de-page/sous-page-test/_index.html"
     posts:
     events:
     projects:
@@ -64,18 +68,22 @@ siren: >-
   
 kind:
   code: "company"
-  label: "Entreprise"
+  label: "Company"
 contact_details:
 
 logo: "c36e7566-9aea-4f27-8e59-b0f681477588"
 organizations_categories:
   - "ecoles"
-free_categories:
-  - permalink: "/annuaire/categories/ecoles/"
-    path: "/organizations_categories/ecoles"
-    slug: "ecoles"
-    file: "content/fr/organizations_categories/ecoles/_index.html"
-    name: "Ecoles"
+taxonomies:
+  - name: "Catégories"
+    slug: ""
+    categories:
+      - permalink: "/annuaire/categories/ecoles/"
+        path: "/organizations_categories/ecoles"
+        slug: "ecoles"
+        file: "content/fr/organizations_categories/ecoles/_index.html"
+        name: "Ecoles"
+
 
 contents_reading_time:
   seconds: 1

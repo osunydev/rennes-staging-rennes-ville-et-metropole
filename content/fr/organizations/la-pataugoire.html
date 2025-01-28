@@ -49,6 +49,10 @@ backlinks:
         path: "/pages/exemple-de-page"
         slug: "exemple-de-page"
         file: "content/fr/pages/exemple-de-page/_index.html"
+      - permalink: "/exemple-de-page/sous-page-test/"
+        path: "/pages/exemple-de-page/sous-page-test"
+        slug: "sous-page-test"
+        file: "content/fr/pages/exemple-de-page/sous-page-test/_index.html"
     posts:
     events:
     projects:
@@ -59,17 +63,21 @@ siren: >-
   
 kind:
   code: "company"
-  label: "Entreprise"
+  label: "Company"
 contact_details:
 
 organizations_categories:
   - "piscines"
-free_categories:
-  - permalink: "/annuaire/categories/piscines/"
-    path: "/organizations_categories/piscines"
-    slug: "piscines"
-    file: "content/fr/organizations_categories/piscines/_index.html"
-    name: "Piscines"
+taxonomies:
+  - name: "Catégories"
+    slug: ""
+    categories:
+      - permalink: "/annuaire/categories/piscines/"
+        path: "/organizations_categories/piscines"
+        slug: "piscines"
+        file: "content/fr/organizations_categories/piscines/_index.html"
+        name: "Piscines"
+
 
 contents_reading_time:
   seconds: 0
