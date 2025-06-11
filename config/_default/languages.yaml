@@ -36,18 +36,6 @@ fr:
           value: >-
             https://www.youtube.com/@channelUCmWWc_6kL1Pxy8zNSxy79Ww
 
-  permalinks:
-    events: /agenda/:year/:slug/
-    exhibitions: /expositions/:year-:month-:day-:slug/
-    events_categories: /agenda/:slug/
-    pages_categories: /:slug/
-    posts: /actualites/:year-:month-:day-:slug/
-    posts_categories: /actualites/:slug/
-    organizations: /annuaire/:slug/
-    organizations_categories: /annuaire/categories/:slug/
-    persons: /equipe/:slug/
-    persons_categories: /equipe/categories/:slug/
-    authors: /equipe/:slug/actualites/
   taxonomies:
     administrator: administrators
     author: authors
