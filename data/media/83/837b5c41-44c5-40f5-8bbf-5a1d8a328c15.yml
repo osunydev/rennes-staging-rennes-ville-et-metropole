@@ -1,7 +1,10 @@
 ---
 name: 2a461ca6f6c944b4b88d5658c969ccce-full-image.jpg
 size: 451696
-format: square
+width: 1414
+height: 2000
+ratio: 0.707
+format: portrait
 url: https://rennes-staging.osuny.dev/media/eyJfcmFpbHMiOnsiZGF0YSI6IjgzN2I1YzQxLTQ0YzUtNDBmNS04YmJmLTVhMWQ4YTMyOGMxNSIsInB1ciI6ImJsb2JfaWQifX0=--28326a6a2000c1d004a767575932c9db4f2c7000/2a461ca6f6c944b4b88d5658c969ccce-full-image.jpg
 direct_url: https://osuny-staging.s3.fr-par.scw.cloud/xf8mq59etrg5cu1srq7p7flr2rij
 download_url: https://rennes-staging.osuny.dev/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjgzN2I1YzQxLTQ0YzUtNDBmNS04YmJmLTVhMWQ4YTMyOGMxNSIsInB1ciI6ImJsb2JfaWQifX0=--28326a6a2000c1d004a767575932c9db4f2c7000
