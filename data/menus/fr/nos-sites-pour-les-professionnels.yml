@@ -2,13 +2,17 @@
 title: Nos sites pour les professionnels
 items:
 - title: Espace presse
+  slug: espace-presse
   target: https://rennes-ville-et-metropole.rennes-staging.osuny.site/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Rennes Demain
+  slug: rennes-demain
   target: https://rennes-ville-et-metropole.rennes-staging.osuny.site/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 

@@ -2,38 +2,52 @@
 title: Vos services par thématiques
 items:
 - title: Rennes Ville et Métropole
+  slug: rennes-ville-et-metropole
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Aides et solidarités
+  slug: aides-et-solidarites
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Démarches administratives
+  slug: demarches-administratives
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Transport et circulation
+  slug: transport-et-circulation
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Enfance, éducation, jeunesse
+  slug: enfance-education-jeunesse
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Déchets et propreté
+  slug: dechets-et-proprete
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Logement et urbanisme
+  slug: logement-et-urbanisme
   target: www.google.com
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 

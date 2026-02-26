@@ -2,13 +2,17 @@
 title: Actualités et réseaux sociaux
 items:
 - title: Ici Rennes Actualités
+  slug: ici-rennes-actualites
   target: https://rennes-ville-et-metropole.rennes-staging.osuny.site/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Notre app Ici Rennes
+  slug: notre-app-ici-rennes
   target: https://rennes-ville-et-metropole.rennes-staging.osuny.site/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 

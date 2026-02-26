@@ -2,81 +2,114 @@
 title: Menu principal
 items:
 - title: Vos services
+  slug: vos-services
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Rennes Ville et Métropole
+    slug: rennes-ville-et-metropole
     target: "/actualites/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts"
     file: content/fr/posts/_index.html
   - title: Aides et solidarités
+    slug: aides-et-solidarites
     target: "/equipe/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/persons"
     file: content/fr/persons/_index.html
   - title: Démarches administratives
+    slug: demarches-administratives
     target: ''
     kind: blank
     new_tab: false
     children: []
+    descendants_targets: []
   - title: Transport et circulation
+    slug: transport-et-circulation
     target: ''
     kind: blank
     new_tab: false
     children: []
+    descendants_targets: []
   - title: Enfance, éducation, jeunesse
+    slug: enfance-education-jeunesse
     target: ''
     kind: blank
     new_tab: false
     children: []
+    descendants_targets: []
   - title: Déchets et propreté
+    slug: dechets-et-proprete
     target: ''
     kind: blank
     new_tab: false
     children: []
+    descendants_targets: []
   - title: Logement urbanisme
+    slug: logement-urbanisme
     target: ''
     kind: blank
     new_tab: false
     children: []
+    descendants_targets: []
   - title: Numérique et recherche
+    slug: numerique-et-recherche
     target: ''
     kind: blank
     new_tab: false
     children: []
+    descendants_targets: []
+  descendants_targets:
+  - ''
+  - "/actualites/"
+  - "/equipe/"
 - title: Votre métropole
+  slug: votre-metropole
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Agenda
+    slug: agenda
     target: "/agenda/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/events"
     file: content/fr/events/_index.html
   - title: Organisations
+    slug: organisations
     target: "/annuaire/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/organizations"
     file: content/fr/organizations/_index.html
+  descendants_targets:
+  - "/agenda/"
+  - "/annuaire/"
 - title: Votre commune
+  slug: votre-commune
   target: https://rennes-ville-et-metropole.rennes-staging.osuny.site/
   kind: url
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Votre quartier
+  slug: votre-quartier
   target: https://rennes-ville-et-metropole.rennes-staging.osuny.site/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 
