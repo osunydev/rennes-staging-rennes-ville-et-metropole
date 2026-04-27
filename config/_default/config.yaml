@@ -1,4 +1,5 @@
 theme: rennes-hugo-theme
 _merge: deep
 params:
-  keycdn: https://osunystaging-1b4da.kxcdn.com
+  keycdn:
+    url: https://osunystaging-1b4da.kxcdn.com
