@@ -13,3 +13,76 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/agenda/quartier-brequigny/index.html"
+to = "/agenda/quartiers/rennes-quartiers-nord-ouest/"
+
+[[redirects]]
+from = "/agenda/quartiers/quartier-le-blosne/index.html"
+to = "/agenda/quartiers/rennes-quartiers-nord-est/"
+
+[[redirects]]
+from = "/agenda/quartier-centre/index.html"
+to = "/agenda/quartiers/rennes-quartiers-sud-ouest/"
+
+[[redirects]]
+from = "/organisations/index.html"
+to = "/annuaire/"
+
+[[redirects]]
+from = "/page-de-test-legende-menus/index.html"
+to = "/test-update-slug/"
+
+[[redirects]]
+from = "/agenda/quartiers/quartier-brequigny/index.html"
+to = "/agenda/quartiers/rennes-quartiers-nord-ouest/"
+
+[[redirects]]
+from = "/agenda/quartier-villejean-beauregard/index.html"
+to = "/agenda/quartiers/rennes-quartiers-ouest/"
+
+[[redirects]]
+from = "/agenda/quartiers/quartier-bourg-leveque-la-touche-moulin-du-comte/index.html"
+to = "/agenda/quartiers/rennes-quartiers-sud-est/"
+
+[[redirects]]
+from = "/agenda/quartier-bourg-leveque-la-touche-moulin-du-comte/index.html"
+to = "/agenda/quartiers/rennes-quartiers-sud-est/"
+
+[[redirects]]
+from = "/agenda/quartier-thabor-saint-helier-alphonse-guerin-baud-chardonnet/index.html"
+to = "/agenda/quartiers/quartier-thabor-saint-helier-alphonse-guerin-baud-chardonnet/"
+
+[[redirects]]
+from = "/agenda/quartiers/quartier-villejean-beauregard/index.html"
+to = "/agenda/quartiers/rennes-quartiers-ouest/"
+
+[[redirects]]
+from = "/organisations/ecole-1/index.html"
+to = "/annuaire/ecole-1/"
+
+[[redirects]]
+from = "/sous-page-test/index.html"
+to = "/exemple-de-page/sous-page-test/"
+
+[[redirects]]
+from = "/organisations/la-pataugoire/index.html"
+to = "/annuaire/la-pataugoire/"
+
+[[redirects]]
+from = "/akoya-774/index.html"
+to = "/akoya/"
+
+[[redirects]]
+from = "/agenda/quartier-le-blosne/index.html"
+to = "/agenda/quartiers/rennes-quartiers-nord-est/"
+
+[[redirects]]
+from = "/agenda/quartiers/thabor-saint-helier-alphonse-guerin-baud-chardonnet/index.html"
+to = "/agenda/quartiers/quartier-thabor-saint-helier-alphonse-guerin-baud-chardonnet/"
+
+[[redirects]]
+from = "/agenda/quartiers/quartier-centre/index.html"
+to = "/agenda/quartiers/rennes-quartiers-sud-ouest/"
+
